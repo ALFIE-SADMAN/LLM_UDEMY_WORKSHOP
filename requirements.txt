@@ -1,16 +1,4 @@
-python-dotenv
-jupyterlab
-ipywidgets
-requests
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
 gensim
-torch
-transformers
-tqdm
 openai
 gradio
 langchain
@@ -20,7 +8,6 @@ langchain-openai
 langchain-chroma
 langchain-community
 datasets==3.6.0
-matplotlib
 google-generativeai
 anthropic
 chromadb
